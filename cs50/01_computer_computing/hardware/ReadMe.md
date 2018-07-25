@@ -49,7 +49,7 @@ ALU/SUB-Components/Registers/Controller/Buses/InternalMemory
 
 ### 단위
 
-0/1 데이터 최소 단위 1bit
+0/1 데이터 최소 단위 1bit5
 1bit \* 8 1byte
 1024byte -> 1Kb
 1000Kb -> 1Mb
